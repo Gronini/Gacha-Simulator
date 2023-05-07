@@ -16,4 +16,7 @@
   <li>email: groinymc @ gmail (dot) com - for anything</li>
   <li>discord : Groiny#8116</li>
 </ul>
+<ul>
+<ul>
+<ul>
 <p>For any other questions you may, you can join our support Discord server <a href="https://discord.gg/QH7pbb3WxE">https://discord.gg/QH7pbb3WxE</a>.</p>
