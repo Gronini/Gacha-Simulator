@@ -22,7 +22,7 @@ We take no responsibility for the actions of any user who violates these terms, 
 Contact us
 If you'd like to contact us, it's preferred that you use one of these two methods:
 
-email: groinymc @ gmail (dot) com - for anything\n
+email: groinymc @ gmail (dot) com - for anything
 discord : Groiny#8116
 
 For any other questions you may, you can join our support Discord server https://discord.gg/QH7pbb3WxE.
